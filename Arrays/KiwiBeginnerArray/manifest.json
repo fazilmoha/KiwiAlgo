@@ -1,0 +1,38 @@
+{
+    "title" : "Documentation of the current package (KiwiArray)",
+    "author":"mdFazil",
+    "company" : "kiwizil.pvt.limited",
+    "completed":{
+        "constructor":{
+            "KiwiArray()" : "creates an array object and initialise the array size."
+        },
+        "get()" : "return the element from the array",
+        "add()":"add the element inside the array",
+        "remove()" : "remove the specific value from the array",
+        "removeAt()": "remove the value from the particular index",
+        "isEmpty()" : "return boolean value tell whether the array is empty or not",
+        "length()" : "return the size of the array"
+    },
+    "inProgress":{
+        
+    },
+    "pending":[        
+        "iterator",
+        "bulk operation - multiple value adding and removing and checking if the collection contains all the elements of another collection",
+        "contains()",
+        "indexOf(Object obj)",
+        "lastindexOf(Object obj)",
+        "clear()",
+        "toArray()",
+        "sorting",
+        "searching - binary and linear",
+        "support serialisation and deserialisation",
+        "error handling",
+        "concurrency support",
+        "performance optimisation",
+        "documentation and example",
+        "unit testing",
+        "real world example",
+        "add more if required and make it unique and industry best array collection under the brand kiwi"
+    ]
+}
